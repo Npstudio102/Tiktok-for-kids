@@ -6,4 +6,4 @@ some of them most not if you put a video do not say that is not working click on
 
 
 ![Static Badge](https://img.shields.io/badge/VideoPlayerPlus-Blue)
-![Static Badge](https://img.shields.io/badge/License-cyan)
+![Static Badge](https://img.shield![Static Badge](https://img.shields.io/badge/License-cyan)(https://github.com/Npstudio102/Tiktok-for-kids?tab=License-1-ov-file)
