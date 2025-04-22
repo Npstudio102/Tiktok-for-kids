@@ -5,3 +5,5 @@ some of them most not if you put a video do not say that is not working click on
 ## Update
 Version 1.0[current version]
 Version 1.1[coming soon]
+## Web
+the web on https://videoplayerplus.w3spaces.com/index.html 
