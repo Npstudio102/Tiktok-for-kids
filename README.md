@@ -7,3 +7,4 @@ Version 1.0[current version]
 Version 1.1[coming soon]
 ## Web
 the web on https://videoplayerplus.w3spaces.com/index.html 
+[![Web](https://videoplayerplus.w3spaces.com/index.html)
